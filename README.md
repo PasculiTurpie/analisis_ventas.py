@@ -24,16 +24,16 @@ Crea una lista de diccionarios llamada ventas, donde cada diccionario represente
 + Utiliza un bucle para calcular los ingresos totales por día y almacenar estos valores en el diccionario.
 6. #### Representación de Datos:
 - Crea un diccionario llamado resumen_ventas donde las claves sean los nombres de los productos y los valores sean diccionarios anidados. Cada diccionario anidado debe contener:
-* «cantidad_total»: la cantidad total vendida del producto.
-* «ingresos_totales»: los ingresos totales generados por la venta del producto.
-* «precio_promedio»: el precio promedio de venta del producto.
+   * «cantidad_total»: la cantidad total vendida del producto.
+   * «ingresos_totales»: los ingresos totales generados por la venta del producto.
+   * «precio_promedio»: el precio promedio de venta del producto.
  
 
 #### Entrega: Presenta tus resultados en un archivo de texto o una hoja de cálculo. Detalla cada paso del análisis y los resultados obtenidos. Asegúrate de incluir:
 
-La lista de ventas original.
-Los ingresos totales generados.
-El producto más vendido y su cantidad total vendida.
-El precio promedio de venta por producto.
-Los ingresos totales por día.
-El resumen de ventas por producto.
+* La lista de ventas original.
+* Los ingresos totales generados.
+* El producto más vendido y su cantidad total vendida.
+* El precio promedio de venta por producto.
+* Los ingresos totales por día.
+* El resumen de ventas por producto.
